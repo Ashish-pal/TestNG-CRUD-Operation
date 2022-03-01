@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-15T14:43:00 IST" name="Default suite" finished-at="2022-02-15T14:43:02 IST" duration-ms="2168">
+    <groups>
+    </groups>
+    <test started-at="2022-02-15T14:43:00 IST" name="Default test" finished-at="2022-02-15T14:43:02 IST" duration-ms="2168">
+      <class name="JavaRestAssuredSpotify.JavaSpotify.FirstSpotifyApi">
+        <test-method signature="testDeleteSongs_StatusCodeReturn200()[pri:0, instance:JavaRestAssuredSpotify.JavaSpotify.FirstSpotifyApi@5276e6b0]" started-at="2022-02-15T14:43:00 IST" name="testDeleteSongs_StatusCodeReturn200" finished-at="2022-02-15T14:43:02 IST" duration-ms="2125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteSongs_StatusCodeReturn200 -->
+      </class> <!-- JavaRestAssuredSpotify.JavaSpotify.FirstSpotifyApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
